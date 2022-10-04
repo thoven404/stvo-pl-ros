@@ -67,13 +67,13 @@ The project builds "imagesStVO", a customizable application where the user must 
 
 ## 3. Usage
 
-### Datasets configuration
+### Datasets configuration(*)
 ~~We employ an environment variable, *${DATASETS_DIR}*, pointing the directory that contains our datasets. ~~Each sequence from each dataset must contain in its root folder a file named *dataset_params.yaml*, that indicates at least the camera model and the subfolders with the left and right images. We provide dataset parameters files for several datasets and cameras with the format *xxxx_params.yaml*.
 
 ### Configuration files
 For running VO we can load the default parameters file or employ the *config_xxxx.yaml* files provided for every dataset.
 
-### VO Application
+### VO Application(*)
 Usage: ./imagesStVO <dataset_name> <Config_file>
 
 A full command would be:
