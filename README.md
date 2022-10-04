@@ -1,6 +1,6 @@
 # stvo-pl-ros
 Simple implementation of [PL-StVO](https://github.com/rubengooj/stvo-pl) using rviz in ros to visualize points, lines and tracks. (Test on ubuntu20.04)
-<img src="https://github.com/zdf-star/stvo-pl-ros/stvo-pl_ros.png" width = 80% height = 80% />
+<img src="https://github.com/zdf-star/stvo-pl-ros/blob/main/stvo-pl-ros.png" width = 80% height = 80% />
 
 # PL-StVO #
 
